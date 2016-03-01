@@ -1,0 +1,8 @@
+name: Hist
+account: testit
+server: shinyapps.io
+bundleId: 221947
+url: https://testit.shinyapps.io/Hist
+when: 1437240470.55257
+asMultiple: FALSE
+asStatic: FALSE
